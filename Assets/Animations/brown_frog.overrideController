@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: brown_frog
+  m_Controller: {fileID: 9100000, guid: f0922b22b613d144f9e7feeaa64d6894, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 141176511c4422241a4f349c86edf646, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b592291d30f69447b2a1cce7dfcfffb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 782fd31a29f36914d8fcdb0c81a661aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83606b7c4ef9371409886d6397770975, type: 2}

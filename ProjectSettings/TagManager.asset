@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1animal
+  - 2animal
+  - 3animal
+  - 4animal
+  - 5animal
+  - food heap
+  - 1animalInCenter
+  - 2animalInCenter
+  - 3animalInCenter
+  - 4animalInCenter
+  - 5animalInCenter
+  - shield
+  - axe
+  - teleport
+  - web
+  - speedup
+  - 1animalPlate
+  - 2animalPlate
+  - 3animalPlate
+  - 4animalPlate
+  - 5animalPlate
+  - shieldInCircle
+  - axeInCircle
+  - teleportInCircle
+  - webInCircle
+  - speedupInCircle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - glow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 3012312507
+    locked: 0
